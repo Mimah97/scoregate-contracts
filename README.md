@@ -835,3 +835,6 @@ Contributions are welcome. ScoreGate is an open-source public good built for the
 
 <!-- handsoff-issue-78 -->
 - #78: #28 — apply_param_change Lacks Caller Authorization Guard
+
+<!-- handsoff-issue-79 -->
+- #79: #29 — apply_policy_bundle Overwrites Individual Parameter Settings Without Clearing Pending Timelock Proposals
