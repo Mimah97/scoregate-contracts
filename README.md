@@ -832,3 +832,6 @@ Contributions are welcome. ScoreGate is an open-source public good built for the
 
 <!-- handsoff-issue-101 -->
 - #101: #51 — Temporary Storage TTL Eviction Risk in Dispute Commitments
+
+<!-- handsoff-issue-102 -->
+- #102: #52 — export_configuration Omits Critical Governance and Financial Parameters
