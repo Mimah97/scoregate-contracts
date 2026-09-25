@@ -838,3 +838,6 @@ Contributions are welcome. ScoreGate is an open-source public good built for the
 
 <!-- handsoff-issue-99 -->
 - #99: #49 — Attestation Verification Parity Flaw in Compressed Public Key Matching
+
+<!-- handsoff-issue-100 -->
+- #100: #50 — Missing Low-S Malleability Guard in ECDSA Signature Verification
