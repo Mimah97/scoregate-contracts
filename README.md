@@ -838,3 +838,6 @@ Contributions are welcome. ScoreGate is an open-source public good built for the
 
 <!-- handsoff-issue-95 -->
 - #95: #45 — Non-Binding Fiat-Shamir Transcript in Bulletproof Verification
+
+<!-- handsoff-issue-96 -->
+- #96: #46 — ZK Range Proof Verification Hardcoded to 8-Bit Numeric Bounds
