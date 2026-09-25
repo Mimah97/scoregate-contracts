@@ -838,3 +838,6 @@ Contributions are welcome. ScoreGate is an open-source public good built for the
 
 <!-- handsoff-issue-103 -->
 - #103: #53 — Reentrancy and State Lock Trapping in Fee Withdrawal Logic
+
+<!-- handsoff-issue-104 -->
+- #104: #54 — Omission of EVENT_VERSION in Contract Event Diagnostic Topics
