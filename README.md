@@ -835,3 +835,6 @@ Contributions are welcome. ScoreGate is an open-source public good built for the
 
 <!-- handsoff-issue-102 -->
 - #102: #52 — export_configuration Omits Critical Governance and Financial Parameters
+
+<!-- handsoff-issue-103 -->
+- #103: #53 — Reentrancy and State Lock Trapping in Fee Withdrawal Logic
