@@ -832,3 +832,6 @@ Contributions are welcome. ScoreGate is an open-source public good built for the
 
 <!-- handsoff-issue-93 -->
 - #93: #43 — Non-Constant-Time Point Scalar Multiplication in ZK Range Proof
+
+<!-- handsoff-issue-94 -->
+- #94: #44 — Excessive Gas Consumption from Double Affine Inversion in Pt::add
