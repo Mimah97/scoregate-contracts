@@ -835,3 +835,6 @@ Contributions are welcome. ScoreGate is an open-source public good built for the
 
 <!-- handsoff-issue-94 -->
 - #94: #44 — Excessive Gas Consumption from Double Affine Inversion in Pt::add
+
+<!-- handsoff-issue-95 -->
+- #95: #45 — Non-Binding Fiat-Shamir Transcript in Bulletproof Verification
