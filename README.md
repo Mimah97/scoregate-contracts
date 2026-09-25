@@ -838,3 +838,6 @@ Contributions are welcome. ScoreGate is an open-source public good built for the
 
 <!-- handsoff-issue-79 -->
 - #79: #29 — apply_policy_bundle Overwrites Individual Parameter Settings Without Clearing Pending Timelock Proposals
+
+<!-- handsoff-issue-80 -->
+- #80: #30 — Score Delegation Management Bypasses Multisig Authorization
