@@ -832,3 +832,6 @@ Contributions are welcome. ScoreGate is an open-source public good built for the
 
 <!-- handsoff-issue-97 -->
 - #97: #47 — compute_commitment Permits Mismatched Attestation contract_id
+
+<!-- handsoff-issue-98 -->
+- #98: #48 — ECDSA Signature Recovery Rejects Standard Ethereum Recovery Identifiers (v=27, 28)
