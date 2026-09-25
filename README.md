@@ -832,3 +832,6 @@ Contributions are welcome. ScoreGate is an open-source public good built for the
 
 <!-- handsoff-issue-77 -->
 - #77: #27 — Dual Conflicting Parameter Governance Timelock Engines in Score Contract
+
+<!-- handsoff-issue-78 -->
+- #78: #28 — apply_param_change Lacks Caller Authorization Guard
